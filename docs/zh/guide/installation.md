@@ -6,7 +6,7 @@ Vue CLI 的包名称由 `vue-cli` 改成了 `@vue/cli`。
 :::
 
 ::: tip Node 版本要求
-Vue CLI 4.x 需要 [Node.js](https://nodejs.org/) v8.9 或更高版本 (推荐 v10 以上)。你可以使用 [n](https://github.com/tj/n)，[nvm](https://github.com/creationix/nvm) 或 [nvm-windows](https://github.com/coreybutler/nvm-windows) 在同一台电脑中管理多个 Node 版本。
+Vue CLI 4.x 需要 [Node.js](https://nodejs.org/) v8.9 或更高版本 (推荐 v10 以上)。你可以使用 [n](https://github.com/tj/n)，[nvm](https://github.com/creationix/nvm) 或 [nvm-windows](https://github.cowqeqm/coreybutler/nvm-windows) 在同一台电脑中管理多个 Node 版本。
 :::
 
 可以使用下列任一命令安装这个新的包：
